@@ -1,0 +1,133 @@
+
+
+body {
+  margin: 0px;
+  font-family: 'segoe ui';
+}
+.header
+{
+  height: 69px;
+  width: 100%;
+  background-color: #4d4d4d;
+}
+.nav {
+
+  display: flex;
+align-items: baseline;
+justify-content: space-between;
+}
+.nav-title img
+{
+  margin-top: -5px;
+}
+.row
+{
+  padding: 0 !important;
+  margin: 0 !important;
+}
+.nav > .nav-header {
+  display: inline;
+}
+
+.nav > .nav-header > .nav-title {
+  display: inline-block;
+  font-size: 22px;
+  color: #fff;
+  padding: 10px 10px 10px 10px;
+}
+
+.nav > .nav-btn {
+  display: none;
+}
+
+.nav > .nav-links {
+  display: inline;
+  float: right;
+  font-size: 20px;
+  text-transform: capitalize;
+}
+
+.nav > .nav-links > a {
+  display: inline-block;
+  padding: 13px 15px 13px 15px;
+  text-decoration: none;
+  color: #efefef;
+}
+
+.nav > .nav-links > a:hover
+,.nav > .nav-links > a.active{
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+.nav > #nav-check {
+  display: none;
+}
+
+.Heaader-p a i{padding-left: 23px;}
+/*
+*/
+@media (max-width:600px) {
+  .nav > .nav-btn {
+    display: inline-block;
+    position: absolute;
+    right: 0px;
+    top: 0px;
+  }
+  .nav > .nav-btn > label {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    padding: 13px;
+  }
+  .nav > .nav-btn > label:hover,.nav  #nav-check:checked ~ .nav-btn > label {
+    background-color: rgba(0, 0, 0, 0.3);
+  }
+  .nav > .nav-btn > label > span {
+    display: block;
+    width: 25px;
+    height: 10px;
+    border-top: 2px solid #eee;
+  }
+  .nav > .nav-links {
+    position: absolute;
+    display: block;
+    width: 100%;
+    background-color: #333;
+    height: 0px;
+    transition: all 0.3s ease-in;
+    overflow-y: hidden;
+    top: 50px;
+    left: 0px;
+  }
+  .nav > .nav-links > a {
+    display: block;
+    width: 100%;
+  }
+  .nav > #nav-check:not(:checked) ~ .nav-links {
+    height: 0px;
+  }
+  .nav > #nav-check:checked ~ .nav-links {
+    height: calc(100vh - 50px);
+    overflow-y: auto;
+  }
+}
+/* My Styles*/
+.Heaader-p a i{padding-left: 23px;}
+
+thead th {text-transform: capitalize; font-size: 17px;}
+.page-form
+{
+	background: #FAFAFA;
+	padding-top: 14px;
+	margin-top: -14px;
+}
+
+.page-form .form-control:focus {
+	color: #495057;
+	background-color: #f80f0f;
+	border-color: #a6c;
+	outline: 0;
+	box-shadow: 0 0 0 0.2rem rgb(170, 102, 204);
+}
+
+
