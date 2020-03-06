@@ -1,0 +1,78 @@
+="_fj_hlUgKEeqxwePLTb12JA" selectedElement="_fj_hlkgKEeqxwePLTb12JA" horizontal="true">
+            <children xsi:type="basic:PartStack" xmi:id="_fj_hlkgKEeqxwePLTb12JA" elementId="topLeft" containerData="2351" selectedElement="_fj_hl0gKEeqxwePLTb12JA">
+              <tags>active</tags>
+              <children xsi:type="advanced:Placeholder" xmi:id="_fj_hl0gKEeqxwePLTb12JA" elementId="org.eclipse.ui.navigator.ProjectExplorer" ref="_fkAJFkgKEeqxwePLTb12JA"/>
+              <children xsi:type="advanced:Placeholder" xmi:id="_fj_hmEgKEeqxwePLTb12JA" elementId="org.eclipse.ui.views.ResourceNavigator" toBeRendered="false" ref="_fkAJoEgKEeqxwePLTb12JA"/>
+              <children xsi:type="advanced:Placeholder" xmi:id="_fj_hmUgKEeqxwePLTb12JA" elementId="org.eclipse.jdt.ui.TypeHierarchy" toBeRendered="false" ref="_fkAJoUgKEeqxwePLTb12JA"/>
+              <children xsi:type="advanced:Placeholder" xmi:id="_fj_hmkgKEeqxwePLTb12JA" elementId="org.eclipse.jdt.ui.PackagesView" toBeRendered="false" ref="_fkAJokgKEeqxwePLTb12JA"/>
+            </children>
+            <children xsi:type="basic:PartSashContainer" xmi:id="_fj_hm0gKEeqxwePLTb12JA" containerData="7649" selectedElement="_fj_hnUgKEeqxwePLTb12JA">
+              <children xsi:type="advanced:Placeholder" xmi:id="_fj_hnEgKEeqxwePLTb12JA" elementId="org.eclipse.ui.editorss" containerData="8035" ref="_fkAI8EgKEeqxwePLTb12JA"/>
+              <children xsi:type="basic:PartStack" xmi:id="_fj_hnUgKEeqxwePLTb12JA" elementId="bottomRight" containerData="1965" selectedElement="_fj_hoEgKEeqxwePLTb12JA">
+                <children xsi:type="advanced:Placeholder" xmi:id="_fj_hnkgKEeqxwePLTb12JA" elementId="org.eclipse.ui.views.AllMarkersView" ref="_fkAJo0gKEeqxwePLTb12JA"/>
+                <children xsi:type="advanced:Placeholder" xmi:id="_fj_hn0gKEeqxwePLTb12JA" elementId="org.eclipse.ui.views.PropertySheet" ref="_fkAJqkgKEeqxwePLTb12JA"/>
+                <children xsi:type="advanced:Placeholder" xmi:id="_fj_hoEgKEeqxwePLTb12JA" elementId="org.eclipse.wst.server.ui.ServersView" ref="_fkAJrUgKEeqxwePLTb12JA"/>
+                <children xsi:type="advanced:Placeholder" xmi:id="_fj_hoUgKEeqxwePLTb12JA" elementId="org.eclipse.datatools.connectivity.DataSourceExplorerNavigator" ref="_fkAJ2UgKEeqxwePLTb12JA"/>
+                <children xsi:type="advanced:Placeholder" xmi:id="_fj_hokgKEeqxwePLTb12JA" elementId="org.eclipse.wst.common.snippets.internal.ui.SnippetsView" ref="_fkAJ3UgKEeqxwePLTb12JA"/>
+                <children xsi:type="advanced:Placeholder" xmi:id="_fj_ho0gKEeqxwePLTb12JA" elementId="org.eclipse.ui.console.ConsoleView" ref="_fkAJ_EgKEeqxwePLTb12JA"/>
+                <children xsi:type="advanced:Placeholder" xmi:id="_fj_hpEgKEeqxwePLTb12JA" elementId="org.eclipse.ui.views.ProblemView" ref="_fkAJ4EgKEeqxwePLTb12JA"/>
+                <children xsi:type="advanced:Placeholder" xmi:id="_fj_hpUgKEeqxwePLTb12JA" elementId="org.eclipse.ui.views.TaskList" toBeRendered="false" ref="_fkAJ-0gKEeqxwePLTb12JA"/>
+                <children xsi:type="advanced:Placeholder" xmi:id="_fj_hpkgKEeqxwePLTb12JA" elementId="org.eclipse.ui.views.BookmarkView" toBeRendered="false" ref="_fkAKIkgKEeqxwePLTb12JA"/>
+                <children xsi:type="advanced:Placeholder" xmi:id="_fj_hp0gKEeqxwePLTb12JA" elementId="org.eclipse.search.ui.views.SearchView" ref="_fkAKJ0gKEeqxwePLTb12JA"/>
+                <children xsi:type="advanced:Placeholder" xmi:id="_fj_hqEgKEeqxwePLTb12JA" elementId="org.eclipse.ui.views.ProgressView" ref="_fkAKI0gKEeqxwePLTb12JA"/>
+              </children>
+            </children>
+          </children>
+        </children>
+        <children xsi:type="advanced:Perspective" xmi:id="_fj_hqUgKEeqxwePLTb12JA" elementId="org.eclipse.jdt.ui.JavaPerspective" selectedElement="_fj_hqkgKEeqxwePLTb12JA" label="Java" iconURI="platform:/plugin/org.eclipse.jdt.ui/$nl$/icons/full/eview16/jperspective.png">
+          <persistedState key="persp.hiddenItems" value="persp.hideToolbarSC:org.eclipse.debug.ui.commands.RunToLine,persp.hideToolbarSC:org.eclipse.jdt.ui.actions.OpenProjectWizard,persp.hideToolbarSC:print,persp.hideToolbarSC:org.eclipse.ui.edit.text.toggleShowSelectedElementOnly,"/>
+          <tags>persp.actionSet:org.eclipse.ui.cheatsheets.actionSet</tags>
+          <tags>persp.actionSet:org.eclipse.rse.core.search.searchActionSet</tags>
+          <tags>persp.actionSet:org.eclipse.search.searchActionSet</tags>
+          <tags>persp.actionSet:org.eclipse.ui.edit.text.actionSet.annotationNavigation</tags>
+          <tags>persp.actionSet:org.eclipse.ui.edit.text.actionSet.navigation</tags>
+          <tags>persp.actionSet:org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo</tags>
+          <tags>persp.actionSet:org.eclipse.ui.externaltools.ExternalToolsSet</tags>
+          <tags>persp.actionSet:org.eclipse.ui.actionSet.keyBindings</tags>
+          <tags>persp.actionSet:org.eclipse.ui.actionSet.openFiles</tags>
+          <tags>persp.actionSet:org.eclipse.mylyn.doc.actionSet</tags>
+          <tags>persp.actionSet:org.eclipse.mylyn.tasks.ui.navigation</tags>
+          <tags>persp.actionSet:org.springframework.ide.eclipse.aop.ui.ActionSet</tags>
+          <tags>persp.actionSet:org.springframework.ide.eclipse.aop.ui.matcher.actionSet</tags>
+          <tags>persp.actionSet:org.springframework.ide.eclipse.beans.ui.actionSet</tags>
+          <tags>persp.actionSet:org.springframework.ide.eclipse.beans.search.actionSet</tags>
+          <tags>persp.actionSet:org.springsource.ide.eclipse.commons.launch.actionSet</tags>
+          <tags>persp.actionSet:org.eclipse.debug.ui.launchActionSet</tags>
+          <tags>persp.actionSet:org.eclipse.jdt.ui.JavaActionSet</tags>
+          <tags>persp.actionSet:org.eclipse.jdt.ui.JavaElementCreationActionSet</tags>
+          <tags>persp.actionSet:org.eclipse.ui.NavigateActionSet</tags>
+          <tags>persp.viewSC:org.eclipse.jdt.ui.PackageExplorer</tags>
+          <tags>persp.viewSC:org.eclipse.jdt.ui.TypeHierarchy</tags>
+          <tags>persp.viewSC:org.eclipse.jdt.ui.SourceView</tags>
+          <tags>persp.viewSC:org.eclipse.jdt.ui.JavadocView</tags>
+          <tags>persp.viewSC:org.eclipse.search.ui.views.SearchView</tags>
+          <tags>persp.viewSC:org.eclipse.ui.console.ConsoleView</tags>
+          <tags>persp.viewSC:org.eclipse.ui.views.ContentOutline</tags>
+          <tags>persp.viewSC:org.eclipse.ui.views.ProblemView</tags>
+          <tags>persp.viewSC:org.eclipse.ui.views.ResourceNavigator</tags>
+          <tags>persp.viewSC:org.eclipse.ui.views.TaskList</tags>
+          <tags>persp.viewSC:org.eclipse.ui.views.ProgressView</tags>
+          <tags>persp.viewSC:org.eclipse.ui.navigator.ProjectExplorer</tags>
+          <tags>persp.viewSC:org.eclipse.ui.texteditor.TemplatesView</tags>
+          <tags>persp.viewSC:org.eclipse.pde.runtime.LogView</tags>
+          <tags>persp.newWizSC:org.eclipse.jdt.ui.wizards.JavaProjectWizard</tags>
+          <tags>persp.newWizSC:org.eclipse.jdt.ui.wizards.NewPackageCreationWizard</tags>
+          <tags>persp.newWizSC:org.eclipse.jdt.ui.wizards.NewClassCreationWizard</tags>
+          <tags>persp.newWizSC:org.eclipse.jdt.ui.wizards.NewInterfaceCreationWizard</tags>
+          <tags>persp.newWizSC:org.eclipse.jdt.ui.wizards.NewEnumCreationWizard</tags>
+          <tags>persp.newWizSC:org.eclipse.jdt.ui.wizards.NewAnnotationCreationWizard</tags>
+          <tags>persp.newWizSC:org.eclipse.jdt.ui.wizards.NewSourceFolderCreationWizard</tags>
+          <tags>persp.newWizSC:org.eclipse.jdt.ui.wizards.NewSnippetFileCreationWizard</tags>
+          <tags>persp.newWizSC:org.eclipse.jdt.ui.wizards.NewJavaWorkingSetWizard</tags>
+          <tags>persp.newWizSC:org.eclipse.ui.wizards.new.folder</tags>
+          <tags>persp.newWizSC:org.eclipse.ui.wizards.new.file</tags>
+          <tags>persp.newWizSC:org.eclipse.ui.editors.wizards.UntitledTextFileWizard</tags>
+          <tags>persp.perspSC:org.eclipse.jdt.ui.JavaBrowsingPerspective</tags>
+          <tags>persp.perspSC:org.eclipse.debug.ui.DebugPerspective</tags>
+          <tags>persp.viewSC:org.eclipse.ant.ui.views.AntView</tags>
+          <tags>persp.showI

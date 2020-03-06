@@ -1,0 +1,124 @@
+body
+{
+	    background: #f0f0f0;
+}
+
+.leftcolumn {   
+  float: left;
+  width: 75%;
+}
+
+/* Right column */
+.rightcolumn {
+  float: left;
+  width: 25%;
+  background-color: #f1f1f1;
+  padding-left: 20px;
+}
+
+/* Fake image */
+.fakeimg {
+  background-color: #aaa;
+  width: 100%;
+  padding: 20px;
+}
+
+/* Add a card effect for articles */
+.card {
+  background-color: white;
+  padding: 20px;
+  margin-top: 20px;
+}
+.card h2{
+	font-size: 1.8rm;
+}
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.top-cards
+{
+	padding: 15px 0 20px 0;
+	display: flex;
+}
+.header-card
+{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #1a1c2d;
+    background-clip: border-box;
+    border: 1px solid #313452;
+    border-radius: 23px;
+     margin: 15px;
+    width: 235px;
+}
+.header-card .header-card-body
+{
+    padding: 0.9375rem 0.9375rem;
+    color: #fff;
+}
+.header-card h4
+{
+    font-size: 26px;
+    color: #fff;
+}
+.header-card h4.this-month
+{
+    font-size: 22px;
+    
+}
+.icon-box {
+    width: 45px;
+    height: 45px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10%;
+    flex-shrink: 0;
+}
+.header-card .color-primary
+{
+        background-image: linear-gradient(to bottom right, darkmagenta, brown);
+}
+.header-card .color-info
+{
+    background-image: linear-gradient(to bottom right, #843cf7, #38b8f2);
+}
+.header-card .color-danger
+{
+    background-image: linear-gradient(to bottom right, #fd5d93, #ec250d);
+
+}
+.header-card .color-success
+{
+    background-image: linear-gradient(to bottom right, #387a70, #78cc37);
+}
+.header-card .color-poper
+{
+    background: #f08a5d;
+}
+.header-card i
+{
+    
+    font-size: 1.4rem !important;
+}
+.external-link{
+	display: flex;
+    flex-direction: row;
+     align-items: center;
+    flex-wrap: wrap;
+}
+.external-link .link{
+	padding: 10px;
+    background-color: #b83b5e;
+    color: white;
+    margin: 7px;
+    font-size: 18px;
+    text-transform: capitalize;	
+}
